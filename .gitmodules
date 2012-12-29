@@ -1,0 +1,3 @@
+[submodule "RunUO"]
+	path = RunUO
+	url = git://github.com/UOTitan/RunUO.git
